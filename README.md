@@ -1,1 +1,1 @@
-# higher-or-lower
+this project modules the famous higher or lower game where you predict a certain number related to a certain context and the computer tells the user if the actual count is higher or lower than the number he predicted. this can go on until the user wants for different contexts
